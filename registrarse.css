@@ -1,0 +1,72 @@
+body{
+    padding: 3%;
+
+    background-color: rgb(46,117, 182);
+}
+#login{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 3%;
+   
+}
+#login>div>a{
+    color: aliceblue;
+}
+#principal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#ra{
+    display: flex ;
+    justify-content: space-around    ;
+}
+#ar>#ra> {
+    display: flex;
+    justify-content: center;
+    padding: 4%;
+}
+#ar>#ra>div{
+    padding: 18px;
+    padding-left: 50px;
+  border-right: 2px white solid;
+}
+
+#principal>div{
+    display: flex;
+    justify-content: center;
+}
+#eeee{
+    padding-top: 4%;
+}
+#rrr{
+    padding-left: 4%;
+}
+#par>div>p{
+    color: white;
+    padding-left: 12%;
+    padding-right: 12%;
+}
+#enc{
+    display: flex;
+    justify-content: center;
+    border: 2px rgb(83, 80, 80) solid;
+    border-radius: 20px;
+    width: 60%;
+    height: 100%;
+ }
+ #login>div{
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    height: 20%;
+    border: 1px black solid;
+    border-radius: 20px;
+ }
+#glo{
+    background-color: rgb(255, 0, 0);  
+}
+#face{
+    background-color: blue;
+}
